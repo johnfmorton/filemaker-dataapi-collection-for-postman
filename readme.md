@@ -12,4 +12,4 @@ This is not a collection I created. I found it on the during my development proc
 
 ## Notes
 
-This repo accompanies a post I wrote on my blog, [Learning the FileMaker Data API by trial and error](https://supergeekery.com). In the post, I talk about how I used this collection to learn the Data API. How I dealt with CORS errors using a PHP proxy, and how I used the proxy to query the FileMaker API from my Javascript app.
+This repo accompanies a post I wrote on my blog, [Learning the FileMaker Data API by trial and error](https://supergeekery.com/blog/learning-the-filemaker-data-api-by-trial-and-error). In the post, I talk about how I used this collection to learn the Data API. How I dealt with CORS errors using a PHP proxy, and how I used the proxy to query the FileMaker API from my Javascript app.
